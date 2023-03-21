@@ -1,5 +1,5 @@
 mapboxgl.accessToken =
-  'ADD YOU KEY';
+  'YOUR_KEY';
 
 
   var map = new mapboxgl.Map({
